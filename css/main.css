@@ -178,6 +178,7 @@ body {
   body {
     padding-left: 0 !important;
     padding-right: 0 !important;
+    font-size: medium;
   }
 }
 h1,
@@ -1169,7 +1170,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #bdffff;
+  background: #122fe2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
