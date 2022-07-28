@@ -1806,6 +1806,12 @@ header.header {
     text-align: justify;
   }
 }
+@media (max-width: 767px) {
+  .post-body {
+    font-size: 0.875em;
+    padding-right: 0 !important;
+  }
+}
 .post-body h1 .header-anchor,
 .post-body h2 .header-anchor,
 .post-body h3 .header-anchor,
@@ -2532,7 +2538,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #d5ffff;
+  background: #17fbec;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
