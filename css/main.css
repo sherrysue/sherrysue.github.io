@@ -1808,7 +1808,7 @@ header.header {
 }
 @media (max-width: 767px) {
   .post-body {
-    font-size: 1em;
+    font-size: 1.125em;
     padding-right: 0 !important;
   }
 }
@@ -2538,7 +2538,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffabb9;
+  background: #d74634;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
