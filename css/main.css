@@ -185,7 +185,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1em;
+  font-size: 0.8em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -2532,7 +2532,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #47c1ff;
+  background: #1d4954;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
